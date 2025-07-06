@@ -73,7 +73,7 @@
 ### 🚀 Frontend & Backend
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,laravel,gin&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,laravel,golang&theme=dark)](https://skillicons.dev)
 
 </div>
 
