@@ -34,7 +34,6 @@
 - 🌐 **Full Stack Web Development**
 - 🔧 **Embedded Systems Programming**
 - 🚀 **Open Source Contribution**
-- 🎨 **Modern UI/UX Design**
 - 📱 **Responsive Web Applications**
 
 </td>
@@ -226,7 +225,6 @@
 - [x] ✅ **ESP32 Projects** - Hardware Integration
 - [x] ✅ **Car Trip Management** - MVP Completed
 - [x] ✅ **Open Source Contributions** - 20+ PRs
-- [x] ✅ **Technical Documentation** - Comprehensive guides
 
 </td>
 </tr>
@@ -273,14 +271,14 @@ Creating modern web applications with robust backend APIs and responsive fronten
 <div align="center">
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="80px"/>
 <h4>Frontend Development</h4>
-<p>Responsive design, modern UI/UX, interactive web applications</p>
+<p>Responsive design, interactive web applications</p>
 </div>
 </td>
 <td width="25%">
 <div align="center">
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="80px"/>
 <h4>Backend Engineering</h4>
-<p>API development, database design, server architecture</p>
+<p>API development, database design</p>
 </div>
 </td>
 <td width="25%">
@@ -307,11 +305,10 @@ Creating modern web applications with robust backend APIs and responsive fronten
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-yudha-prasetya/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityayudha.prasetya@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdityaYudha23)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-yudha-prasetya-4421752b1/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yudhaaditya045@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adttt-dev)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aditya.yudha.prasetya)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AdityaYudha23)
 
 </div>
 
