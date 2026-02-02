@@ -78,12 +78,32 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adttt-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adttt-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+<table>
+<tr>
+<td align="center" width="50%">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Adttt-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+</td>
+<td align="center" width="50%">
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Adttt-dev&theme=tokyonight&hide_border=true"/>
+</td>
+</tr>
+</table>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adttt-dev&theme=tokyonight&hide_border=true"/>
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adttt-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</div>
+
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Adttt-dev&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Adttt-dev&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15"/>
 </div>
 
 ---
